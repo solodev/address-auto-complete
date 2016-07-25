@@ -1,6 +1,6 @@
 # Address Auto Complete
 
-Improve the user-experience of your forms by adding auto-complete functionality to your address fields, powered by Google Maps. [Solodev's](https://www.solodev.com/) has provided a turn-key form for you to use on your website or in your project.
+Improve the user-experience of your forms by adding auto-complete functionality to your address fields, powered by Google Maps. [Solodev](https://www.solodev.com/) has provided a turn-key form for you to use on your website or in your project.
 
 ## Note
 
